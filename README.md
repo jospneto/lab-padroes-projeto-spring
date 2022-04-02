@@ -1,2 +1,2 @@
-# lab-padroes-projeto-spring
+# lab-padroes-projeto-spring<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 Desenvolvimento de uma API Rest utlizando padrões de projetos junto ao Spring Framework e a linguagem Java. O intuito é o aprendizado, prática e aperfeiçoamento das habilidades na linguagem e com um framework. Por fim ver a implementação na prática dos Designs Patterns. Os utilizados neste projeto foram: Singleton, Startegy e Facade.
